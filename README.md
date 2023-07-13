@@ -1,106 +1,107 @@
 # Andrew Scheiner's Top 100 MLB Prospects List
 
-## Most recent version: 1/16/23:
+## Most recent version - 7/13/2023 (Midseason 2023):
+#### Code will be released soon
 
-| Rank | Name                    | Org | Pos  | Current Level |
-|------|-------------------------|-----|------|---------------|
-| 1    | Grayson Rodriguez       | BAL | SP   | AAA           |
-| 2    | Eury Perez              | MIA | SP   | AA            |
-| 3    | Corbin Carroll          | ARI | LF   | MLB           |
-| 4    | Gunnar Henderson        | BAL | 3B   | MLB           |
-| 5    | Elly De La Cruz         | CIN | SS   | AA            |
-| 6    | Daniel Espino           | CLE | SP   | AA            |
-| 7    | Francisco Alvarez       | NYM | C    | MLB           |
-| 8    | Andrew Painter          | PHI | SP   | AA            |
-| 9    | Jordan Walker           | STL | RF   | AA            |
-| 10   | Cade Cavalli            | WSN | SP   | MLB           |
-| 11   | Brandon Pfaadt          | ARI | SP   | AAA           |
-| 12   | Kyle Harrison           | SFG | SP   | AA            |
-| 13   | Noelvi Marte            | CIN | SS   | A+            |
-| 14   | Jackson Chourio         | MIL | CF   | AA            |
-| 15   | Jack Leiter             | TEX | SP   | AA            |
-| 16   | Gabriel Moreno          | TOR | C    | MLB           |
-| 17   | Josh Jung               | TEX | 3B   | MLB           |
-| 18   | Mick Abel               | PHI | SP   | AA            |
-| 19   | Anthony Volpe           | NYY | 2B   | AAA           |
-| 20   | Cole Winn               | TEX | SP   | AAA           |
-| 21   | James Wood              | WSN | CF   | A             |
-| 22   | Bobby Miller            | LAD | SP   | AAA           |
-| 23   | Gordon Graceffo         | STL | SP   | AA            |
-| 24   | Endy Rodriguez          | PIT | C    | AAA           |
-| 25   | Brandon Williamson      | CIN | SP   | AAA           |
-| 26   | Ken Waldichuk           | OAK | SP   | MLB           |
-| 27   | Curtis Mead             | TBR | LF   | AAA           |
-| 28   | Diego Cartaya           | LAD | C    | A+            |
-| 29   | Matthew Liberatore      | STL | SP   | MLB           |
-| 30   | Brett Baty              | NYM | 3B   | MLB           |
-| 31   | Shane Baz               | TBR | SP   | MLB           |
-| 32   | Henry Davis             | PIT | C    | AA            |
-| 33   | Taj Bradley             | TBR | SP   | AAA           |
-| 34   | Owen White              | TEX | SP   | AA            |
-| 35   | Gavin Stone             | LAD | SP   | AAA           |
-| 36   | Ronny Mauricio          | NYM | SS   | AA            |
-| 37   | Royce Lewis             | MIN | SS   | MLB           |
-| 38   | Jackson Holliday        | BAL | SS   | A             |
-| 39   | Marco Luciano           | SFG | SS   | A+            |
-| 40   | Logan Allen             | CLE | SP   | AAA           |
-| 41   | Quinn Priester          | PIT | SP   | AAA           |
-| 42   | Oswald Peraza           | NYY | SS   | MLB           |
-| 43   | Pete Crow-Armstrong     | CHC | CF   | A+            |
-| 44   | Brooks Lee              | MIN | SS   | AA            |
-| 45   | Jackson Jobe            | DET | SP   | A+            |
-| 46   | DL Hall                 | BAL | MIRP | MLB           |
-| 47   | Marcelo Mayer           | BOS | SS   | A+            |
-| 48   | Tanner Bibee            | CLE | SP   | AA            |
-| 49   | Triston Casas           | BOS | 1B   | MLB           |
-| 50   | Bo Naylor               | CLE | C    | MLB           |
-| 51   | Dalton Rushing          | LAD | C    | A+            |
-| 52   | Ivan Herrera            | STL | C    | MLB           |
-| 53   | Masyn Winn              | STL | SS   | AA            |
-| 54   | Reese Olson             | DET | SP   | AA            |
-| 55   | Logan O'Hoppe           | LAA | C    | MLB           |
-| 56   | Alec Marsh              | KCR | SP   | AAA           |
-| 57   | Andre Jackson           | LAD | SP   | MLB           |
-| 58   | Brayan Rocchio          | CLE | SS   | AAA           |
-| 59   | Caleb Kilian            | CHC | SP   | MLB           |
-| 60   | Nolan Jones             | CLE | RF   | MLB           |
-| 61   | Ryne Nelson             | ARI | SP   | MLB           |
-| 62   | George Valera           | CLE | RF   | AAA           |
-| 63   | Ronny Henriquez         | MIN | SP   | MLB           |
-| 64   | Brice Turang            | MIL | SS   | AAA           |
-| 65   | Maddux Bruns            | LAD | SP   | CPX           |
-| 66   | Brennen Davis           | CHC | RF   | AAA           |
-| 67   | Jordan Lawlar           | ARI | SS   | AA            |
-| 68   | Kevin Parada            | NYM | LF   | A             |
-| 69   | Ryan Pepiot             | LAD | SP   | MLB           |
-| 70   | Joey Ortiz              | BAL | SS   | AAA           |
-| 71   | Bryce Jarvis            | ARI | SP   | AA            |
-| 72   | Max Meyer               | MIA | SP   | MLB           |
-| 73   | Colton Cowser           | BAL | CF   | AAA           |
-| 74   | Jared Jones             | PIT | SP   | A+            |
-| 75   | Drey Jameson            | ARI | MIRP | MLB           |
-| 76   | Gavin Cross             | KCR | CF   | A             |
-| 77   | Ethan Small             | MIL | SP   | MLB           |
-| 78   | Joey Wiemer             | MIL | RF   | AAA           |
-| 79   | Heriberto Hernandez     | TBR | LF   | A+            |
-| 80   | Kyle Manzardo           | TBR | 1B   | AA            |
-| 81   | Nick Gonzales           | PIT | 2B   | AA            |
-| 82   | Andy Pages              | LAD | RF   | AA            |
-| 83   | Dax Fulton              | MIA | SP   | AA            |
-| 84   | Andrew Abbott           | CIN | SP   | AA            |
-| 85   | Wikelman Gonzalez       | BOS | SP   | A+            |
-| 86   | Landon Knack            | LAD | SP   | AA            |
-| 87   | Hayden Dunhurst         | KCR | C    | CPX           |
-| 88   | Cole Wilcox             | TBR | SP   | A             |
-| 89   | Jared Shuster           | ATL | SP   | AAA           |
-| 90   | J.T. Ginn               | OAK | SP   | AA            |
-| 91   | Ezequiel Tovar          | COL | SS   | MLB           |
-| 92   | Jackson Merrill         | SDP | SS   | A             |
-| 93   | Maikel Garcia           | KCR | SS   | MLB           |
-| 94   | Xzavion Curry           | CLE | SP   | MLB           |
-| 95   | Michael Grove           | LAD | SP   | MLB           |
-| 96   | Gavin Williams          | CLE | SP   | AA            |
-| 97   | Kameron Misner          | TBR | CF   | AA            |
-| 98   | Matt McLain             | CIN | SS   | AA            |
-| 99   | Termarr Johnson         | PIT | 2B   | A             |
-| 100  | Simeon Woods Richardson | MIN | SP   | MLB           |
+| Rank | Name                | Org | Pos  | Current Level | ETA  | Age | B | T |
+|------|---------------------|-----|------|---------------|------|-----|---|---|
+| 1    | Corbin Carroll      | ARI | LF   | MLB           | 2023 | 22  | L | L |
+| 2    | Andrew Painter      | PHI | SP   | AA            | 2023 | 20  | R | R |
+| 3    | Eury Perez          | MIA | SP   | AA            | 2023 | 20  | R | R |
+| 4    | Gunnar Henderson    | BAL | SS   | MLB           | 2023 | 22  | L | R |
+| 5    | Grayson Rodriguez   | BAL | SP   | AAA           | 2023 | 23  | L | R |
+| 6    | James Wood          | WSN | CF   | AA            | 2025 | 20  | L | L |
+| 7    | Jackson Holliday    | BAL | SS   | A+            | 2024 | 19  | L | R |
+| 8    | Jordan Walker       | STL | RF   | MLB           | 2023 | 21  | R | R |
+| 9    | Daniel Espino       | CLE | SP   | AA            | 2024 | 22  | R | R |
+| 10   | Elly De La Cruz     | CIN | SS   | MLB           | 2024 | 21  | S | R |
+| 11   | Taj Bradley         | TBR | SP   | MLB           | 2023 | 22  | R | R |
+| 12   | Brandon Pfaadt      | ARI | SP   | AAA           | 2023 | 24  | R | R |
+| 13   | Hunter Brown        | HOU | SP   | MLB           | 2023 | 24  | R | R |
+| 14   | Bobby Miller        | LAD | SP   | MLB           | 2023 | 24  | L | R |
+| 15   | Jackson Chourio     | MIL | CF   | AA            | 2024 | 19  | R | R |
+| 16   | Anthony Volpe       | NYY | 2B   | MLB           | 2023 | 22  | R | R |
+| 17   | Mason Miller        | OAK | SP   | MLB           | 2025 | 24  | R | R |
+| 18   | David Festa         | MIN | SP   | AA            | 2024 | 23  | R | R |
+| 19   | Josh Jung           | TEX | 3B   | MLB           | 2023 | 25  | R | R |
+| 20   | Ricky Tiedemann     | TOR | SP   | AA            | 2024 | 20  | L | L |
+| 21   | Brett Baty          | NYM | 3B   | MLB           | 2023 | 23  | L | R |
+| 22   | Endy Rodriguez      | PIT | C    | AAA           | 2023 | 23  | S | R |
+| 23   | Kyle Harrison       | SFG | SP   | AAA           | 2024 | 21  | R | L |
+| 24   | Tekoah Roby         | TEX | SP   | AA            | 2025 | 21  | R | R |
+| 25   | Mick Abel           | PHI | SP   | AA            | 2024 | 21  | R | R |
+| 26   | Ben Brown           | CHC | SP   | AAA           | 2023 | 23  | R | R |
+| 27   | Adael Amador        | COL | 2B   | A+            | 2025 | 20  | S | R |
+| 28   | Coby Mayo           | BAL | RF   | AA            | 2025 | 21  | R | R |
+| 29   | Cade Cavalli        | WSN | SP   | MLB           | 2024 | 24  | R | R |
+| 30   | Francisco Alvarez   | NYM | C    | MLB           | 2023 | 21  | R | R |
+| 31   | Gavin Williams      | CLE | SP   | MLB           | 2023 | 24  | L | R |
+| 32   | Luis Matos          | SFG | CF   | MLB           | 2023 | 21  | R | R |
+| 33   | Noah Schultz        | CHW | SP   |               | 2027 | 19  | L | L |
+| 34   | Ty Madden           | DET | SP   | AA            | 2024 | 23  | R | R |
+| 35   | Gavin Stone         | LAD | SP   | AAA           | 2023 | 24  | R | R |
+| 36   | Max Meyer           | MIA | SP   | MLB           | 2024 | 24  | R | R |
+| 37   | Matthew Liberatore  | STL | SP   | AAA           | 2023 | 23  | L | L |
+| 38   | Colson Montgomery   | CHW | 3B   | A+            | 2024 | 21  | L | R |
+| 39   | Luis L. Ortiz       | PIT | SP   | AAA           | 2023 | 24  | R | R |
+| 40   | Tink Hence          | STL | SP   | AA            | 2025 | 20  | R | R |
+| 41   | Ken Waldichuk       | OAK | SP   | MLB           | 2023 | 25  | L | L |
+| 42   | Tanner Bibee        | CLE | SP   | MLB           | 2023 | 24  | R | R |
+| 43   | Joey Wiemer         | MIL | RF   | MLB           | 2023 | 24  | R | R |
+| 44   | Quinn Priester      | PIT | SP   | AAA           | 2024 | 22  | R | R |
+| 45   | Curtis Mead         | TBR | LF   | AAA           | 2023 | 22  | R | R |
+| 46   | Jordan Lawlar       | ARI | SS   | AA            | 2024 | 21  | R | R |
+| 47   | DL Hall             | BAL | MIRP | CPX           | 2023 | 24  | L | L |
+| 48   | Andrew Abbott       | CIN | SP   | MLB           | 2024 | 24  | L | L |
+| 49   | Jackson Merrill     | SDP | SS   | A+            | 2025 | 20  | L | R |
+| 50   | Bryce Miller        | SEA | SP   | MLB           | 2023 | 24  | R | R |
+| 51   | Louie Varland       | MIN | SP   | AAA           | 2023 | 25  | R | R |
+| 52   | Zach Neto           | LAA | SS   | MLB           | 2023 | 22  | R | R |
+| 53   | Marcelo Mayer       | BOS | SS   | AA            | 2025 | 20  | L | R |
+| 54   | Henry Davis         | PIT | C    | MLB           | 2024 | 23  | R | R |
+| 55   | Triston Casas       | BOS | 1B   | MLB           | 2023 | 23  | L | R |
+| 56   | Jake Eder           | MIA | SP   | AA            | 2024 | 24  | L | L |
+| 57   | Drey Jameson        | ARI | SP   | MLB           | 2023 | 25  | R | R |
+| 58   | Evan Carter         | TEX | CF   | AA            | 2025 | 20  | L | R |
+| 59   | Dylan Lesko         | SDP | SP   | CPX           | 2026 | 19  | R | R |
+| 60   | Pete Crow-Armstrong | CHC | CF   | AA            | 2024 | 21  | L | L |
+| 61   | Tyler Soderstrom    | OAK | 1B   | AAA           | 2024 | 21  | L | R |
+| 62   | Hayden Wesneski     | CHC | SP   | AAA           | 2023 | 25  | R | R |
+| 63   | Junior Caminero     | TBR | 3B   | AA            | 2025 | 20  | R | R |
+| 64   | Diego Cartaya       | LAD | C    | AA            | 2024 | 21  | R | R |
+| 65   | Rayner Arias        | SFG | RF   | DSL           | 2028 | 17  | R | R |
+| 66   | Maikel Garcia       | KCR | SS   | MLB           | 2023 | 23  | R | R |
+| 67   | Logan Allen         | CLE | SP   | AAA           | 2023 | 24  | R | L |
+| 68   | Ethan Salas         | SDP | C    | A             | 2026 | 17  | L | R |
+| 69   | Brice Turang        | MIL | SS   | MLB           | 2023 | 23  | L | R |
+| 70   | Landen Roupp        | SFG | SP   | AA            | 2024 | 24  | R | R |
+| 71   | Kodai Senga         | NYM | SP   | MLB           | 2023 | 30  | R | R |
+| 72   | Mark Vientos        | NYM | 3B   | AAA           | 2022 | 23  | R | R |
+| 73   | Ryne Nelson         | ARI | SP   | MLB           | 2023 | 25  | R | R |
+| 74   | Kyle Manzardo       | TBR | 1B   | AAA           | 2024 | 23  | L | R |
+| 75   | Jacob Misiorowski   | MIL | SP   | A+            | 2026 | 21  | R | R |
+| 76   | Brooks Lee          | MIN | SS   | AA            | 2024 | 22  | S | R |
+| 77   | Drew Gilbert        | HOU | CF   | AA            | 2024 | 22  | L | L |
+| 78   | Jordan Wicks        | CHC | SP   | AAA           | 2024 | 23  | L | L |
+| 79   | Sal Frelick         | MIL | CF   | AAA           | 2024 | 23  | L | R |
+| 80   | Jordy Vargas        | COL | SP   | A             | 2026 | 19  | R | R |
+| 81   | Sebastian Walcott   | TEX | 3B   | CPX           | 2029 | 17  | R | R |
+| 82   | Druw Jones          | ARI | CF   | CPX           | 2026 | 19  | R | R |
+| 83   | Harry Ford          | SEA | C    | A+            | 2026 | 20  | R | R |
+| 84   | Wilmer Flores       | DET | SP   | AA            | 2024 | 22  | R | R |
+| 85   | Termarr Johnson     | PIT | 2B   | A             | 2027 | 19  | L | R |
+| 86   | Jonatan Clase       | SEA | CF   | AA            | 2024 | 21  | S | R |
+| 87   | Carson Whisenhunt   | SFG | SP   | AA            | 2024 | 22  | L | L |
+| 88   | Matt McLain         | CIN | SS   | MLB           | 2023 | 23  | R | R |
+| 89   | Abner Uribe         | MIL | SIRP | MLB           | 2023 | 23  | R | R |
+| 90   | Oswald Peraza       | NYY | SS   | AAA           | 2023 | 23  | R | R |
+| 91   | Bryan Woo           | SEA | SP   | MLB           | 2023 | 23  | R | R |
+| 92   | Dyan Jorge          | COL | SS   | A             | 2026 | 20  | R | R |
+| 93   | Gordon Graceffo     | STL | SP   | AAA           | 2024 | 23  | R | R |
+| 94   | Bryan Ramos         | CHW | 3B   | AA            | 2024 | 21  | R | R |
+| 95   | Masyn Winn          | STL | SS   | AAA           | 2025 | 21  | R | R |
+| 96   | Nolan Jones         | COL | RF   | MLB           | 2023 | 25  | L | R |
+| 97   | Griff McGarry       | PHI | MIRP | AA            | 2023 | 24  | R | R |
+| 98   | Vaun Brown          | SFG | CF   | AA            | 2025 | 25  | S | R |
+| 99   | Miguel Vargas       | LAD | LF   | AAA           | 2023 | 23  | R | R |
+| 100  | Johan Rojas         | PHI | CF   | AA            | 2023 | 22  | R | R |
