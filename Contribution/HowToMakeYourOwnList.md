@@ -2,7 +2,7 @@
 
 Hello,
 
-If you are interested in making your own version of an MLB Top 100 Prospects List but using my process as a starting point, please follow these steps:
+If you are interested in making your own version of an MLB Top 100 Prospects List and would like to use my process as a starting point, please follow these steps:
 
 ### Making Your Own Version
 
